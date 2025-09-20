@@ -16,5 +16,5 @@ Du bekommst vom Cloud-Anbieter die Grundtechnik, also virtuelle Server, Speicher
 
 
 ## Legende
-<span style="color:skyblue">Durch den Kunden erbrachte Leistung</span>  
-<span style="color:#c6c65b">Durch den Service-Anbieter erbrachte Leistung</span>  
+Durch den Kunden erbrachte Leistung: Blau
+Durch den Service-Anbieter erbrachte Leistung: Grün
