@@ -14,5 +14,5 @@ PaaS ist eine abkürzung und steht für Software as a Service
 ![Alt-Text](Bilder/SaaS.png)
 
 ## Legende
-Durch den Kunden erbrachte Leistung: Blau
-Durch den Service-Anbieter erbrachte Leistung: Grün
+-   Durch den Kunden erbrachte Leistung: Blau
+-   Durch den Service-Anbieter erbrachte Leistung: Grün

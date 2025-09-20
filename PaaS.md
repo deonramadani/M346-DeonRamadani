@@ -15,5 +15,5 @@ Du bekommst eine fertige Plattform, auf der du Apps entwickeln und betreiben kan
 ![Alt-Text](Bilder/PaaS.png)
 
 ## Legende
-Durch den Kunden erbrachte Leistung: Blau
-Durch den Service-Anbieter erbrachte Leistung: Grün
+-   Durch den Kunden erbrachte Leistung: Blau
+-   Durch den Service-Anbieter erbrachte Leistung: Grün
