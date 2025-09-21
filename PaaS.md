@@ -1,19 +1,42 @@
-# Zurzbeschreibung PaaS
+# Kurzbeschreibung **PaaS**
 
-## Was bedeutet PaaS ausgeschrieben?
-PaaS ist eine abkürzung und steht für Plattform as a Service
+## Was bedeutet *PaaS* ausgeschrieben?
+**PaaS** ist die Abkürzung für ***Platform as a Service***.  
+Dabei stellt der Anbieter eine komplette Plattform zur Verfügung, auf der Anwendungen entwickelt, getestet und betrieben werden können.  
 
-## Was passiert bei IaaS?
-Du bekommst eine fertige Plattform, auf der du Apps entwickeln und betreiben kann. Der Anbieter kümmert sich um Server Updates und Infrastruktur. 
+---
+
+## Was passiert bei PaaS?
+Du bekommst eine fertige Plattform, auf der du **Apps entwickeln und betreiben** kannst.  
+Der Anbieter kümmert sich um:  
+- Server  
+- Updates  
+- Infrastruktur  
+
+Dadurch kannst du dich voll auf die Entwicklung konzentrieren.  
+
+---
 
 ## Beispiele
--   Oracle Cloud Platform (Datenbankmanagement)
--   Mendix (Lowcode-Plattform)
+- **Oracle Cloud Platform** → Datenbankmanagement  
+- **Mendix** → Low-Code-Plattform  
+- **Google App Engine** → Web-App Hosting  
 
-
+---
 ## Grafik
-![Alt-Text](Bilder/PaaS.png)
+![PaaS Grafik](Bilder/PaaS.png)
+
+---
 
 ## Legende
--   Durch den Kunden erbrachte Leistung: Blau
--   Durch den Service-Anbieter erbrachte Leistung: Grün
+- <span style="color:blue">**Blau**</span> → Durch den Kunden erbrachte Leistung  
+- <span style="color:green">**Grün**</span> → Durch den Service-Anbieter erbrachte Leistung  
+
+---
+
+## Vorteile & ❌ Nachteile
+| Vorteile                          | Nachteile                          |
+|-----------------------------------|------------------------------------|
+| Schnellere Entwicklung von Apps   | Abhängigkeit vom Anbieter          |
+| Keine Serververwaltung nötig      | Eingeschränkte Anpassungsmöglichkeiten |
+| Skalierbarkeit inklusive           | Kosten können mit Nutzung steigen  |

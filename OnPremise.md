@@ -1,8 +1,21 @@
-# Zurzbeschreibung OnPremise
+# 🏢 Kurzbeschreibung **On-Premise**
 
+## Was bedeutet *On-Premise*?
+**On-Premise** bedeutet, dass Hardware und Software direkt im eigenen Unternehmen betrieben werden.  
+Die gesamte IT-Infrastruktur befindet sich im **eigenen Rechenzentrum** – nicht in der Cloud.  
 
-## Was bedeutet On-Premise
-On-Premise bedeutet, dass Hardware und Software direkt im eigenen Unternehmen betrieben werden. Die IT-Infrastruktur steht also im eigenen Rechenzentrum, nicht in der Cloud.
+Unternehmen behalten so die **volle Kontrolle**, müssen sich aber auch selbst um **Wartung, Updates und Sicherheit** kümmern.  
+
+---
 
 ## Grafik
-![Alt-Text](Bilder/On-Premise.png)
+![On-Premise](Bilder/On-Premise.png)
+
+---
+
+## Vorteile & Nachteile
+| ✅ Vorteile                         | ❌ Nachteile                          |
+|-------------------------------------|---------------------------------------|
+| Volle Datenkontrolle                | Hohe Anschaffungs- und Betriebskosten |
+| Hohe Sicherheit (keine Drittanbieter)| Eigene IT-Abteilung notwendig         |
+| Unabhängigkeit von Cloud-Anbietern  | Weniger flexibel & schwer skalierbar  |

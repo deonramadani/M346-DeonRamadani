@@ -1,11 +1,30 @@
-# Zurzbeschreibung Hybrit Cloud
+# 🌐 Kurzbeschreibung **Hybrid Cloud**
 
-## Was bedeutet Hybrit Cloud?
-Eine Hybrid Cloud kombiniert private und öffentliche Clouds, sodass Daten und Anwendungen zwischen ihnen geteilt werden können. Diese Konfiguration bietet Flexibilität und mehr Deployment-Optionen.
+## Was bedeutet *Hybrid Cloud*?
+Die **Hybrid Cloud** kombiniert **Private** und **Public Clouds**.  
+Dadurch können Daten und Anwendungen zwischen beiden Welten geteilt werden.  
 
+👉 Diese Konfiguration bietet:  
+- Mehr **Flexibilität**  
+- Unterschiedliche **Deployment-Optionen**  
+- Optimale Nutzung von **Kosten & Sicherheit**  
+
+---
 
 ## Beispiele
--   Bei der SBB laufen kritische Systeme in einer Private Cloud, während weniger kritische Anwendungen in die Public Cloud ausgelagert sind.
+- **SBB**: Kritische Systeme laufen in einer **Private Cloud**, während weniger kritische Anwendungen in die **Public Cloud** ausgelagert sind.  
+- **Unternehmen allgemein**: Sensible Kundendaten bleiben lokal, während Webseiten oder Shops in der Public Cloud betrieben werden.  
+
+---
 
 ## Grafik
-![Alt-Text](Bilder/HybritCloud.png)
+![Hybrid Cloud](Bilder/HybritCloud.png)
+
+---
+
+## Vorteile & Nachteile
+| ✅ Vorteile                          | ❌ Nachteile                           |
+|--------------------------------------|----------------------------------------|
+| Kombination aus Sicherheit & Flexibilität | Komplexere Verwaltung                   |
+| Kostenoptimierung möglich            | Abhängigkeit von mehreren Anbietern     |
+| Workloads frei verschiebbar          | Erhöhte Anforderungen an IT-Know-how    |
